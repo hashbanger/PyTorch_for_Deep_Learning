@@ -1,2 +1,3 @@
 # PyTorch_for_Deep_Learning
-Going through the basics for PyTorch
+
+The basics of PyTorch for deep learning.
